@@ -1,3 +1,16 @@
+## 2026-04-24
+
+### Added
+- Dark mode — switch between light, dark, and system theme from the new General section in Settings or from the join screen
+- Raise hand button moved into the control bar, so it is always visible without covering the video area
+- Moderators see a dedicated raise-hand notification with quick actions to focus the student's screen or lower their hand
+- Pinned messages can now be collapsed to a small icon to keep the view clear
+
+### Improved
+- Leave confirmation dialog has a friendlier look with a cleaner layout
+- Audio noise suppression is applied as soon as a student joins from the waiting room
+- Chat and notification colors fully adapt to the active theme
+
 ## 2026-04-22
 
 ### Added
