@@ -1,3 +1,8 @@
+## 2026-04-27
+
+### Improved
+- Joining a meeting no longer requires granting microphone permission upfront — participants can join muted and enable their mic at any time
+
 ## 2026-04-24
 
 ### Added
