@@ -2,6 +2,7 @@
 
 ### Improved
 - Joining a meeting no longer requires granting microphone permission upfront — participants can join muted and enable their mic at any time
+- Visual Effects was update to use external library instead of custom implementation - environment settings.
 
 ## 2026-04-24
 
