@@ -1,3 +1,15 @@
+## 2026-05-04
+
+### Added
+- Moderators can draw and annotate directly on top of a screen share, and the strokes are visible to all participants in both grid and carousel views
+- Moderators can now cancel a running classroom timer with one click from the timer overlay
+- Chat messages and emoji reactions are now rate-limited to prevent accidental spamming
+- Timer sound can be toggled separately in the Notifications settings tab
+
+### Improved
+- Notification sound defaults are now tailored to the role — students hear screen-share requests by default and stay quiet otherwise, while moderators hear chat, join, leave, and raise-hand sounds
+- Default notification volume lowered to 50% for a less intrusive classroom experience
+
 ## 2026-04-27
 
 ### Improved
