@@ -1,3 +1,15 @@
+## 2026-05-11
+
+### Added
+- Moderators can remove individual chat messages from the room chat
+- Reactions and the focused-screen highlight ring can each be hidden from Settings → General
+- Pinch-to-zoom and double-click controls in the meeting view for quickly focusing a participant or screen share
+
+### Improved
+- Control panel and settings dialog adapt better to small and narrow screens
+- Grid layout density adjusts automatically based on the number of participants on screen
+- Only the focused screen share plays audio when several are shared at once, preventing overlapping sound
+
 ## 2026-05-04
 
 ### Added
