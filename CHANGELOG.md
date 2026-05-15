@@ -1,3 +1,8 @@
+## 2026-05-15
+
+### Fixed
+- Camera and screen-share tracks now display reliably on Firefox during lessons
+
 ## 2026-05-11
 
 ### Added
