@@ -1,3 +1,17 @@
+## 2026-05-26
+
+### Improved
+- Reconnections now show a clearer "performance issue detected" message and automatically lower video quality so the meeting recovers faster
+- Participant videos in the side carousel only render when scrolled into view, easing CPU and bandwidth on lessons with many students
+- Tablet-sized screens now get the full side-panel meeting layout instead of the narrow mobile layout
+- Your own tile in the participant carousel now appears right after the teacher, before other students
+- Screen-check timer label stays visible on every tile, even at the densest grid density
+- Default classroom timer is now 5 minutes
+
+### Fixed
+- Duplicate join/leave notifications during brief reconnects are now suppressed
+- Joining a lesson from the waiting room no longer gets stuck if the microphone, camera, or background effect fails to start
+- Double-clicking the remove or pin controls on a participant tile no longer toggles the focused view by accident
 ## 2026-05-15
 
 ### Fixed
