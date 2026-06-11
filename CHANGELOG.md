@@ -1,3 +1,17 @@
+## 2026-06-11
+
+### Added
+- Joining a lesson while already connected shows a warning dialog letting you choose to continue, open a second session for another device, or cancel
+
+### Improved
+- The "join additional session" option on the join screen is now a visible button, making multi-device setups easier to discover
+- When a user is connected on two devices, moderator actions (mute, remove) now apply to both sessions at once
+- Stop Recording now reliably stops all active streams even if the session reconnected after recording started
+
+### Fixed
+- A user joined from two devices no longer hears their own microphone played back from the second session
+- The speaking indicator on a participant tile now lights up correctly when the user is speaking from either of their two active sessions
+
 ## 2026-05-26
 
 ### Improved
