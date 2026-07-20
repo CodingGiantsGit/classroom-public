@@ -1,3 +1,19 @@
+## 2026-07-20
+
+### Added
+- Keyboard shortcuts for the meeting room — Alt+M/K to toggle mic/camera, Alt+C for chat, Alt+H for help, Alt+, and Alt+. to jump between shared screens, and holding Alt+X for push-to-talk; moderators also get Alt+L, Alt+G, Alt+P, and Alt+T for participants, grid view, screen pin, and the timer
+- A "Keyboard Shortcuts" section in Settings listing every available shortcut
+
+### Improved
+- Grid view now arranges tiles more sensibly on narrower windows before switching to a side-by-side layout on wider screens
+- Cancelling an AI assistant response now stops it immediately instead of continuing in the background
+- Messages with numbered lists or plain dashed separators (e.g. `---`) now display correctly instead of showing garbled formatting
+- URLs pasted inside a code block are now clickable links
+
+### Fixed
+- The AI assistant now shows a clear error instead of spinning forever if a response fails to load
+- Clicking the focus icon on a raise-hand notification no longer leaves the screen-check timer in a stale state
+
 ## 2026-06-11
 
 ### Added
