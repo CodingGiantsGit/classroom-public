@@ -1,3 +1,28 @@
+## 2026-10-29
+
+### Improved
+- In minimal video quality, the pinned screen and whatever you open in the main view now stay visible, not just the teacher's video
+- If video quality drops automatically during a connection problem, your own quality setting is kept for your next lesson
+- Teachers now see a message when a request to turn on a student's microphone fails or the student's device doesn't respond
+
+### Fixed
+- A pinned or opened screen no longer disappears from the main view after a reconnect
+- If your microphone silently stops working, you now get a warning and it reconnects automatically, or you can press Reconnect
+- Clearer messages explain why your microphone couldn't turn on, such as blocked permission, no microphone found or a microphone used by another app
+
+## 2026-10-22
+
+### Added
+- If you can't be signed in to a lesson, you now see a clear error page with a support code and a button to go back, instead of being bounced between pages
+
+### Improved
+- When you're removed from a lesson, joined elsewhere with the same account, or lose your connection, you now see a message explaining what happened instead of being sent away without notice
+- The error page warns you when your device clock is off, which can stop you from joining
+
+### Fixed
+- Signing in to a lesson no longer gets stuck in an endless redirect loop
+- A device clock that runs fast no longer shows a lesson as not started yet or ends it early
+
 ## 2026-07-20
 
 ### Added
