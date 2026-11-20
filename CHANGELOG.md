@@ -1,3 +1,8 @@
+## 2026-11-20
+
+### Fixed
+- Join and leave times in lesson summaries are now accurate even when the connection is slow to report them
+
 ## 2026-10-29
 
 ### Improved
